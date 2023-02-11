@@ -1,4 +1,4 @@
-# Injection Attacks
+<h1 align="center">Injection</h1>
 
 <p align="center">
 
